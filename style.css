@@ -1,0 +1,23 @@
+body {
+  font-family: "Nunito", sans-serif;
+  background: #22193F url(ondas.svg) no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.bg-image{
+  background-image: url(img-login.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.img-logo{
+  background-image: url(logo-blanco.svg);
+  background-size: cover;
+  height: 100%;
+  background-position: center center;
+} 
+
+h4{
+font-size: 28px;
+}
